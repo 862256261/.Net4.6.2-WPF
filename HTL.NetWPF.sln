@@ -5,6 +5,14 @@ VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTL.NetWPF", "HTL.NetWPF\HTL.NetWPF.csproj", "{140A9EE7-58C3-4ED0-B5A6-905733C0238E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ViewModel", "ViewModel", "{AB803C16-23DA-4720-A610-E163D9C5FAE6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EntityModel", "EntityModel", "{4185050B-019E-4BFF-9B8C-6DBEB7D082D5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataOperation", "DataOperation", "{CF665DAE-F86F-4639-A82C-57DC9F7C6468}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{A3F930F5-DEAA-4E89-8050-AC3C1E999F40}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
