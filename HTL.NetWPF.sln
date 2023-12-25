@@ -13,6 +13,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataOperation", "DataOperat
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{A3F930F5-DEAA-4E89-8050-AC3C1E999F40}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetWPFVM", "NetWPFVM\NetWPFVM.csproj", "{BA88A4E5-4CAA-4826-AC49-82588607B615}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,9 +25,16 @@ Global
 		{140A9EE7-58C3-4ED0-B5A6-905733C0238E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{140A9EE7-58C3-4ED0-B5A6-905733C0238E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{140A9EE7-58C3-4ED0-B5A6-905733C0238E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA88A4E5-4CAA-4826-AC49-82588607B615}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA88A4E5-4CAA-4826-AC49-82588607B615}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA88A4E5-4CAA-4826-AC49-82588607B615}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA88A4E5-4CAA-4826-AC49-82588607B615}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BA88A4E5-4CAA-4826-AC49-82588607B615} = {AB803C16-23DA-4720-A610-E163D9C5FAE6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DF057CC8-C4D4-4AC6-BEC7-6ABB359543FE}
