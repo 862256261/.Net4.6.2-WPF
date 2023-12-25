@@ -1,13 +1,13 @@
 # .Net4.6.2-WPF
 使用说明
 
-系统采用MVVM模式
+系统采用MVVM模式,
 
 整体样式采用 https://github.com/MahApps/MahApps.Metro
 
 首页选项卡组件采用(非TabControl) https://github.com/Dirkster99/AvalonDock
 
-Dialog 组件采用https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit框架内的Dialogs
+Dialogs 组件采用https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit框架内的Dialogs
 
 Dialogs用法
 
